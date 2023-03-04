@@ -1,16 +1,16 @@
-#Java Instant Messaging Application with User Management
+# Java Instant Messaging Application with User Management
 
 This is a Java instant messaging application that allows users to connect with each other and manage their friends list. The application uses JFrame for the graphical user interface and communicates with a server that in turn communicates with a MariaDB database.
 Features
 
-##The application has the following features:
+## The application has the following features:
 
 -    User Management: Users can create accounts and log in.
 -    Instant Messaging: Users can send and receive messages in real time.
 -    Friend Management: Users can add and remove friends from their friend list.
 -    MariaDB Database: The application stores user account information and friend lists in a MariaDB database.
 
-##Requirements
+## Requirements
 
 To run this application, you need the following:
 
@@ -19,7 +19,7 @@ To run this application, you need the following:
 -    NetBeans or Eclipse IDE
 -    JFrame GUI library
 
-##Installation
+## Installation
 
 To install the application, follow these steps:
 
@@ -30,7 +30,7 @@ To install the application, follow these steps:
 -    Edit the server address in the Client.java file.
 -    Build and run the project.
 
-##Usage
+## Usage
 
 To use the application, follow these steps:
 
